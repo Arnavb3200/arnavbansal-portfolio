@@ -1,5 +1,6 @@
 # Arnav Bansal | Personal Portfolio
-Application Link - file:///d%3A/Arnav%20Cursor/index.html
+Application Link - 1.  file:///d%3A/Arnav%20Cursor/index.html
+                   2. https://arnavbansal-portfolio.vercel.app/
 
 ## About Me
 Hi, I'm Arnav Bansal, a B.Tech student specializing in Artificial Intelligence and Machine Learning at JECRC University, Jaipur, Rajasthan.
